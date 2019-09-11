@@ -1,3 +1,5 @@
+package com.bham.pij.assignments.a2a;
+
 import java.util.ArrayList;
 import java.util.Random;
 
