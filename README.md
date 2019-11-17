@@ -10,6 +10,7 @@ The GA starts with a collection of random individuals. This collection is usuall
 Each individual has a chromosome. A chromosome is a collection of genes of fixed size. Each gene on a chromosome can have one value from a set of values. In a task involving binary numbers, for example, gene values can only be 1 or 0. No other values will be legal.
 
 The GA follows the following steps.
+
 (1) The first step of the GA is to create a population of random individuals. Each individual has a chromosome that will have been initialised to random values from the range of legal values. The population has a fixed size, e.g. 100.
 
 (2) The mutation operation is then applied to the whole population.
