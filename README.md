@@ -5,6 +5,7 @@ In this assignment, a genetic algorithm is implemented which is a type of evolut
 
 ## Algorithm overview 
 *The information below has been derived from the assessment brief.*
+
 The GA starts with a collection of random individuals. This collection is usually of a fixed size, for example, 100. An individual is an attempted solution of the particular problem. Since all initial individuals are random, none of them probably represents a particularly good solution. It will usually be the case, however, that even though they are random, some individuals will be better than others.
 Each individual has a chromosome. A chromosome is a collection of genes of fixed size. Each gene on a chromosome can have one value from a set of values. In a task involving binary numbers, for example, gene values can only be 1 or 0. No other values will be legal.
 
